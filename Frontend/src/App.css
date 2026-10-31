@@ -1,0 +1,16 @@
+/* App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('/public/assets/img/download1.jpeg'); /* image from public folder */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.app-container {
+  background-color: rgba(255, 255, 255, 0.9); /* optional light overlay */
+  min-height: 100vh;
+}

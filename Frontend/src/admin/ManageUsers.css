@@ -1,0 +1,14 @@
+/* ManageUsers.css */
+table {
+  font-size: 14px;
+}
+
+th, td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.container {
+  background-color: #f9f9f9;
+  padding: 20px;
+}

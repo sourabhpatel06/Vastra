@@ -1,0 +1,21 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+  font-weight: 600;
+}
+
+form .form-control {
+  padding: 12px;
+  font-size: 15px;
+}
+
+button {
+  width: 100%;
+}

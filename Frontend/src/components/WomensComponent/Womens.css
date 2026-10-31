@@ -1,0 +1,47 @@
+.women-container {
+  padding: 20px;
+  background-color: #fff0f6;
+}
+
+.women-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.women-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  width: 250px;
+  padding: 15px;
+  text-align: center;
+  border-radius: 10px;
+  transition: 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.women-card:hover {
+  transform: scale(1.02);
+}
+
+.women-image {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.women-button {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 16px;
+  background-color: #e91e63;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.women-button:hover {
+  background-color: #c2185b;
+}
